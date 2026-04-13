@@ -126,17 +126,3 @@ cnn-cifar10/
 | Normalization | mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5) |
 
 ---
-
-## 🔮 Potential Improvements
-
-- Add **Batch Normalization** after convolutional layers
-- Introduce **Dropout** in fully connected layers to reduce overfitting
-- Apply **data augmentation** (random crops, horizontal flips)
-- Experiment with **learning rate scheduling**
-- Try deeper architectures like **ResNet** or **VGG**
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
